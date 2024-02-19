@@ -1,0 +1,16 @@
+{
+    "name": "notification-service",
+    "version": "1.0.0",
+    "description": "Microservice for managing notifications for users",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"No tests specified\" && exit 0"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^8.1.3"
+    }
+}
